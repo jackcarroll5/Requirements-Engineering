@@ -1,0 +1,44 @@
+C:\Users\T00194823\Desktop\MusicStoreSYS\MusicStoreSYS\bin\Debug\MusicStoreSYS.exe.config
+C:\Users\T00194823\Desktop\MusicStoreSYS\MusicStoreSYS\bin\Debug\MusicStoreSYS.exe
+C:\Users\T00194823\Desktop\MusicStoreSYS\MusicStoreSYS\bin\Debug\MusicStoreSYS.pdb
+C:\Users\T00194823\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.csprojResolveAssemblyReference.cache
+C:\Users\T00194823\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmSuppReg.resources
+C:\Users\T00194823\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.Properties.Resources.resources
+C:\Users\T00194823\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.csproj.GenerateResource.Cache
+C:\Users\T00194823\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.csproj.CoreCompileInputs.cache
+C:\Users\T00194823\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.exe
+C:\Users\T00194823\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.pdb
+G:\Yr 2 Semester 1\Requirements Engineering\MusicStoreSYS\MusicStoreSYS\bin\Debug\MusicStoreSYS.exe.config
+G:\Yr 2 Semester 1\Requirements Engineering\MusicStoreSYS\MusicStoreSYS\bin\Debug\MusicStoreSYS.exe
+G:\Yr 2 Semester 1\Requirements Engineering\MusicStoreSYS\MusicStoreSYS\bin\Debug\MusicStoreSYS.pdb
+G:\Yr 2 Semester 1\Requirements Engineering\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.csprojResolveAssemblyReference.cache
+G:\Yr 2 Semester 1\Requirements Engineering\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmSuppReg.resources
+G:\Yr 2 Semester 1\Requirements Engineering\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.Properties.Resources.resources
+G:\Yr 2 Semester 1\Requirements Engineering\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.csproj.GenerateResource.Cache
+G:\Yr 2 Semester 1\Requirements Engineering\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.csproj.CoreCompileInputs.cache
+G:\Yr 2 Semester 1\Requirements Engineering\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.exe
+G:\Yr 2 Semester 1\Requirements Engineering\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.pdb
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\bin\Debug\MusicStoreSYS.exe.config
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\bin\Debug\MusicStoreSYS.exe
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\bin\Debug\MusicStoreSYS.pdb
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.csprojResolveAssemblyReference.cache
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmAnalyCDSales.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmAnalyCDStock.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmDeregSupp.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmDisCD.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmInsNewCD.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmPayment.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmPreordCD.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmProSales.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmQueryCD.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmRecCD.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmSuppList.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmTotRev.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmUpdCD.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmUpdSupp.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.frmSuppReg.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.Properties.Resources.resources
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.csproj.GenerateResource.Cache
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.csproj.CoreCompileInputs.cache
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.exe
+C:\Users\Jack\Desktop\MusicStoreSYS\MusicStoreSYS\obj\Debug\MusicStoreSYS.pdb
